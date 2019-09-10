@@ -1,0 +1,44 @@
+
+/* body{background-image: url(Old-Trafford-night.jpg);
+background-repeat: no-repeat;
+background-size: cover} */
+h1 {
+    color:white;
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+h3 {
+    color: yellow}
+h4 {color: white;
+text-align: center}
+
+
+* {
+    box-sizing: border-box;
+    padding-left: 20px}
+    * {
+        box-sizing: border-box;
+        padding-right: 20px}
+        * {
+            box-sizing: border-box;
+            padding-top: 10px}
+            * {
+                box-sizing: border-box;
+                padding-bottom: 10px}
+
+body{text-align: left;
+color: #f0f0e6;
+font-family:'Times New Roman', Times, serif;
+font-size: 20px}
+body{background-color:rgb(201, 36, 36)}
+/* .indexbackground {
+    background: url(Old-Trafford-night.jpg) no-repeat center center fixed;
+    background-size: cover;} */
+p{
+    background-color: rgba(32, 56, 161, 0.5);
+}
+/* /* 
+.makeMeBlue {
+    color: blue */
