@@ -1,10 +1,127 @@
 
-/* body{background-image: url(Old-Trafford-night.jpg);
-background-repeat: no-repeat;
-background-size: cover} */
-h1 {
-    color:white;
+a:link, a:visited {
+    background-color: #f44336;
+    color: white;
+    padding: 0px 0px;
     text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    background-color: red;
+  }
+
+.page2background {
+    background-image: url(MatthewStreet01.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.page3background {
+    background-image: url(Beatlemaniawallpaper.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.page4background {
+    background-image: url(AlbertDock.jpg);
+    background-repeat: no-repeat;
+    background-size:contain;
+}
+.page5background {
+    background-image: url(.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.page6background {
+    background-image: url(.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.page7background {
+    background-image: url(.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.page8background {
+    background-image: url(.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.page9background {
+    background-image: url(.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.page10background {
+    background-image: url(.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.page11background {
+    background-image: url(.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.page12background {
+    background-image: url(.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.page13background {
+    background-image: url(.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.pageu2background {
+    background-image: url(.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.pageu3background {
+    background-image: url(.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.pageunit1background {
+    background-image: url(AlbertDock.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.pageunit2background {
+    background-image: url(.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.movingonbackground {
+    background-image: url(Silla.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.indexbackground {
+    background-image: url(Old-Trafford-night.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.outcome1background {
+    background-image: url(AlbertDock.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.outcome2background {
+    background-image: url(Old-Trafford-night.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.outcome3background {
+    background-image: url(Old-Trafford-night.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+h1 {
+    color:black;
+    background:white;
+    text-align: center;
+
 }
 h2 {
     text-align: center;
@@ -23,7 +140,7 @@ text-align: center}
         padding-right: 20px}
         * {
             box-sizing: border-box;
-            padding-top: 10px}
+            padding-top: 1px}
             * {
                 box-sizing: border-box;
                 padding-bottom: 10px}
@@ -31,14 +148,13 @@ text-align: center}
 body{text-align: left;
 color: #f0f0e6;
 font-family:'Times New Roman', Times, serif;
-font-size: 20px}
-body{background-color:rgb(201, 36, 36)}
-/* .indexbackground {
-    background: url(Old-Trafford-night.jpg) no-repeat center center fixed;
-    background-size: cover;} */
-p{
-    background-color: rgba(32, 56, 161, 0.5);
+font-size: 25px}
+/* body{background-color:rgb(201, 36, 36)} */
+
+
+    p{
+    background-color: rgba(16, 54, 80, 0.7);
 }
-/* /* 
-.makeMeBlue {
+
+/* .makeMeBlue {
     color: blue */
