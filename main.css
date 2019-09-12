@@ -103,23 +103,23 @@ a:link, a:visited {
     background-size:cover;
 }
 .outcome1background {
-    background-image: url(Beatles2.jpg);
+    background-image: url(B10.jpg);
     background-repeat: no-repeat;
     background-size:cover;
 }
 .outcome2background {
-    background-image: url(Beatles2.jpg);
+    background-image: url(B10.jpg);
     background-repeat: no-repeat;
     background-size:cover;
 }
 .outcome3background {
-    background-image: url(Beatles2.jpg);
+    background-image: url(B10.jpeg);
     background-repeat: no-repeat;
     background-size:cover;
 }
 h1 {
-    color:black;
-    background:white;
+    color:white;
+    /* background:white; */
     text-align: center;
 
 }
@@ -127,7 +127,7 @@ h2 {
     text-align: center;
 }
 h3 {
-    color: yellow}
+    color:yellow}
 h4 {color: white;
 text-align: center}
 
@@ -146,11 +146,16 @@ text-align: center}
                 padding-bottom: 10px}
 
 body{text-align: left;
-color:blue;
-font-family:'Times New Roman', Times, serif;
+color:yellow;
+font-family: 'Oswald', sans-serif;
+/* font-family:'Times New Roman', Times, serif; */
 font-size: 25px}
     p{
-    background-color:rgba(190, 203, 212, 0.7);
+    background-color:rgba(145, 194, 229, 0.7);
+}
+
+ ul  {
+    background-color:rgba(145, 194, 229, 0.7);
 }
 
 /* .makeMeBlue {
